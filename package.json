@@ -1,0 +1,19 @@
+{
+  "name": "react-data-grid",
+  "version": "2.0.76",
+  "description": "Based on adazzle/react-data-grid",
+  "scripts": {
+    "beforepublish": "node ../../ci/publish/replacePackageEntry react-data-grid true",
+    "postpublish": "node ../../ci/publish/replacePackageEntry react-data-grid",
+    "test": "npm test"
+  },
+  "keywords": [
+    "react",
+    "react-data-grid",
+    "data-grid",
+    "core"
+  ],
+  "repository": "pronos-eu/react-data-grid-build",
+  "author": "pronos-eu",
+  "license": "MIT"
+}
