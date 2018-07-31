@@ -1,6 +1,6 @@
 {
   "name": "react-data-grid",
-  "version": "2.0.76",
+  "version": "2.0.77",
   "description": "Based on adazzle/react-data-grid",
   "scripts": {
     "beforepublish": "node ../../ci/publish/replacePackageEntry react-data-grid true",
